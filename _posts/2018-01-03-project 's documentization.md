@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-subtitle: "Feel home!"
+title:  "How do I organize the project?"
 date:   2015-09-06 23:34:01
 categories: [data analysis, tool]
 ---

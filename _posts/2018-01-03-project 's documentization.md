@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How do I organize the project?"
-date:   2015-09-06 23:34:01
+date:   2018-01-03 
 categories: [data analysis, tool]
 ---
 1. 나는 어떤 질문에 답변하고자 하는가?
